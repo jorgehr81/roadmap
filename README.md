@@ -85,22 +85,22 @@
 
 ## Steps
 
-. Users **with roles**
-. Course `with versions?`
-. Assign users to a course with roles
-. Page `with versions?`
-. Page under page **recursive**, `permission?`
-. Asign pages to a course`permission?`
-. **Service** Upload media pdf, images, etc...
-. Content managment MVP
+- Users **with roles**
+- Course `with versions?`
+- Assign users to a course with roles
+- Page `with versions?`
+- Page under page **recursive**, `permission?`
+- Asign pages to a course`permission?`
+- **Service** Upload media pdf, images, etc...
+- Content managment MVP
 [Text, bold, align, strike, link, files (pdf, images, videos), underline, color, highlight, headers]
-. b) Ability to Embeded images, videos, other artifacts, tweets, youtube, etc in a page
-. Assigned pages to a course
-. Publish a course
-. List all courses
-. Display the user progression from any given course
-. Ability for an user to pay for a course or should pay a subscription or can we charge per course?
-. Adding messages to the course like you do in papers documents or google docs
-. Collaboration
-. Quizzes
-. Analytics
+- b) Ability to Embeded images, videos, other artifacts, tweets, youtube, etc in a page
+- Assigned pages to a course
+- Publish a course
+- List all courses
+- Display the user progression from any given course
+- Ability for an user to pay for a course or should pay a subscription or can we charge per course?
+- Adding messages to the course like you do in papers documents or google docs
+- Collaboration
+- Quizzes
+- Analytics
