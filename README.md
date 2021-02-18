@@ -86,7 +86,7 @@
 ## Steps
 
 - Users **with roles**
-- Course `with versions?`
+- Courses `with versions?`
 - Assign users to a course with roles
 - Page `with versions?`
 - Page under page **recursive**, `permission?`
